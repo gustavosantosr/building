@@ -1,0 +1,2 @@
+[06-Apr-2022 16:29:03 America/Bogota] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting T_STRING or T_NS_SEPARATOR in /home/drmonkey/public_html/building/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php on line 15
+[06-Apr-2022 16:29:06 America/Bogota] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting T_STRING or T_NS_SEPARATOR in /home/drmonkey/public_html/building/vendor/laminas/laminas-zendframework-bridge/src/Autoloader.php on line 15
